@@ -1,3 +1,11 @@
 jupyter-book
 matplotlib
 numpy
+math
+pandas
+seaborn
+scipy.stats
+matplotlib.pyplot
+pymc3 
+warnings
+numba
